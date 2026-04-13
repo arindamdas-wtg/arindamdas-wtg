@@ -34,7 +34,3 @@
 
 ---
 
-# 👋 Hi there, I'm Arindam!
-
-![Profile Views](https://img.shields.io/badge/dynamic/json?color=0e75b6&label=Profile%20Views&query=value&url=https://komarev.com/ghpvc/?username=arindam-das)
-
