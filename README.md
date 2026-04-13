@@ -1,8 +1,6 @@
 # 👋 Hi there, I'm Arindam!
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=arindam-das&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=arindam-das&label=Profile%20views&color=brightgreen&style=flat)
 
 💻 Automation Engineer | Web Developer | AI & Agent Enthusiast  
 
