@@ -27,6 +27,12 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=arindamdas-wtg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=arindamdas-wtg&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⭐️ *"Quality is never an accident; it is always the result of intelligent effort."*
+
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=brightgreen&style=flat" alt="profile views" />
+</p>
+
