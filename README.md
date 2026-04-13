@@ -1,18 +1,18 @@
 # 👋 Hi there, I'm Arindam!
 
-💻 QA Specialist | Automation Engineer | AI & Agent Enthusiast  
+💻 Automation Engineer | Web Developer | AI & Agent Enthusiast  
 
 ---
 
 ## 🚀 About Me
 - 🔭 I’m currently working on Automation Testing & AI-based QA Solutions
 - 👯 I’m looking to collaborate on Automation Frameworks & AI Agent Projects
-- 🤝 I’m looking for help with RAG-based AI project implementations
-- 🌱 I’m currently learning AI Agents, RAG Architecture & Advanced Automation
-- 💬 Ask me about QA, Automation Testing, Selenium, API Testing, AI in Testing
-- ⚡ Fun fact: I love breaking applications to make them stronger 😄
 - 🤖 I’m also involved in AI-related development and building AI Agents
-- 🧠 Looking to build projects using RAG (Retrieval-Augmented Generation)
+- ⚡ I’m currently learning AI Agents, RAG Architecture & Advanced Automation
+- 🧠 I’m looking to build projects using RAG (Retrieval-Augmented Generation)
+- 💬 Ask me about QA, Automation Testing, Selenium, API Testing, AI in Testing
+- 😎 Fun fact: If the application works perfectly, I get suspicious 😄
+- ✨ My curiosity starts where AI predictions fail 😄
 
 ---
 
