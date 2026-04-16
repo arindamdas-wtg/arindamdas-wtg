@@ -5,6 +5,8 @@
 💻 Automation Engineer | Web Developer | AI & Agent Enthusiast  
 
 ---
+<img align="right" alt="Coding" width="200" src="https://c.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif">
+
 ## 🚀 About Me
 - 🔭 I’m currently working on Automation Testing & AI-based QA Solutions
 - 👯 I’m looking to collaborate on Automation Frameworks & AI Agent Projects
