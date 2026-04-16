@@ -14,7 +14,7 @@
 - 💬 Ask me about QA, Automation Testing, Selenium, API Testing, AI in Testing
 - 😎 Fun fact: If the application works perfectly, I get suspicious 😄
 - ✨ My curiosity starts where AI predictions fail 😄
-
+<img align="right" alt="Coding" width="200" src="https://c.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif">
 ---
 
 ## 🌐 Socials:
